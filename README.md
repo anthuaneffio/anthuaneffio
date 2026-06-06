@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hola, soy Amthuan Effio 👋
 
-<!--
-**anthuaneffio/anthuaneffio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Computación e Informática
 
-Here are some ideas to get you started:
+💻 Actualmente aprendiendo:
+- HTML
+- CSS
+- JavaScript
+- Python
+- SQL
+- Git y GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Objetivos:
+- Convertirme en desarrollador de software
+- Crear proyectos útiles
+- Conseguir prácticas profesionales
+
+📚 Proyectos en desarrollo:
+- Portafolio Web
+- Proyectos Python
+- Bases de Datos SQL
