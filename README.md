@@ -1,27 +1,35 @@
 # 👋 Hola, soy Anthuan Nicola Effio
 
-🎓 Estudiante de Desarrollo de Software en SENATI.
+🎓 Estudiante de Desarrollo de Software en SENATI
 
-💻 Tecnologías que estoy aprendiendo y utilizando:
+💻 Apasionado por el desarrollo Frontend y la creación de interfaces web modernas.
 
-- HTML
-- CSS
-- JavaScript
-- SQL
-- Git
-- GitHub
+### 🚀 Tecnologías
 
-🚀 Actualmente me estoy especializando en el desarrollo Frontend, creando interfaces web modernas, responsivas y fáciles de usar.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,sql,git,github,vscode" />
+</p>
 
-📚 Siempre estoy buscando mejorar mis habilidades en programación, bases de datos y desarrollo web mediante proyectos prácticos y aprendizaje continuo.
+### 📚 Actualmente aprendiendo
 
-🎯 Mis objetivos:
+- Desarrollo Web Frontend
+- Bases de Datos SQL
+- Control de versiones con Git y GitHub
+- Buenas prácticas de programación
 
-- Convertirme en Desarrollador Frontend Profesional.
-- Construir proyectos reales para mi portafolio.
-- Obtener experiencia mediante prácticas profesionales.
-- Seguir aprendiendo nuevas tecnologías del desarrollo web.
+### 🎯 Objetivos
 
-📂 En este perfil encontrarás mis proyectos, prácticas y avances como estudiante de Desarrollo de Software.
+- Convertirme en Desarrollador Frontend
+- Construir proyectos para mi portafolio
+- Conseguir prácticas profesionales
+- Aprender nuevas tecnologías del ecosistema web
 
-⭐ "Cada proyecto es una oportunidad para aprender algo nuevo."
+### 📊 Estadísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)
+
+---
+
+⭐ Siempre aprendiendo y construyendo nuevos proyectos.
